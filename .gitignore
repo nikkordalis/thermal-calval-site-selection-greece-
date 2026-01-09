@@ -1,0 +1,62 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Data files
+*.hdf
+*.nc
+*.tif
+*.tiff
+*.pkl
+data/
+data_cache/
+cache/
+output_results/
+
+# Google Earth Engine
+.ee/
+GEE_assets/
+
+# CSV and geospatial data
+*.csv
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.geojson
+*.gpkg
+*.kml
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MCA directory
+MCA/
+
+# LST validation
+lst-validation/
+
+# Old notebooks
+*old*.ipynb
+*Old*.ipynb
+*Original*.ipynb
+*Assets*.ipynb
+*Small_Test*.ipynb
+CSV_fix.ipynb
+environmental_analysis_and_timeseries_stats.ipynb
+Multi_Criteria_Thermal_Site_Placement.ipynb
