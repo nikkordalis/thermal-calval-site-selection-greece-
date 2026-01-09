@@ -5,7 +5,7 @@ Environmental monitoring and analysis tools for the Peloponnese-Attica region of
 ## Notebooks
 
 ### 1. Multi-Criteria Thermal Site Placement
-**File:** `notebooks/Multi_Criteria_Thermal_Site_Placement_Greece_Fixed.ipynb`
+**File:** `notebooks/Multi_Criteria_Thermal_Site_Placement_Greece.ipynb`
 
 Processes and analyzes Earth observation data using Google Earth Engine to identify suitable locations for thermal sensor deployment in the Peloponnese-Attica region. 
 
