@@ -1,4 +1,4 @@
-# Tripoli Environmental Analysis
+# Environmental Analysis
 
 Environmental monitoring and analysis tools for the Peloponnese-Attica region of Greece using Earth Observation data.
 
